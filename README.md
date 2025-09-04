@@ -1,4 +1,3 @@
-Update README later.
 # Introduction
 Analyse the 2023 data job market! Focusing on data analyst roles, with a special focus on remote roles, this project explores top-paying data analyst jobs, top-demanded skills, and optimal skills to learn where high demand meets high salary.
 
